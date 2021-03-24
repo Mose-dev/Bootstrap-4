@@ -22,7 +22,7 @@
 
 ## Author
 
-👤 **Moise Velez**
+👤 **Moïse Velez**
 
 * Github: [@Mose-dev](https://github.com/Mose-dev)
 * LinkedIn: [@Moise Velez](https://linkedin.com/in/Moise Velez)
