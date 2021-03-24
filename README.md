@@ -4,7 +4,7 @@
 
 <h2>Le projet</h2>
 <p>
-  <img alt="Une étudiante" src="apprenant2.jpg" />
+  <img alt="Une étudiante" src="images/apprenant2.jpg" />
 </p>
 <p>Vous créerez des pages web à l'aide de Bootstrap 4 et sa bibliothèque de composants. Vous rendrez ces pages réactives à l'aide de la grille flexible de Bootstrap et vous les façonnerez grâce à sa gamme complète d'utilitaires mise à disposition.</p>
 <p>Vous personnaliserez la conception et les fonctionnalités afin de créer un thème customisable à votre image.</p>
